@@ -6,7 +6,7 @@ This repository is a landing page for talks about NGS.
 
 Quick links:
 * [NGS Website](https://ngs-lang.org/)
-* [Main GitHub project](https://github.com/ngs-lang/ngs)
+* [NGS GitHub project](https://github.com/ngs-lang/ngs)
 * [NGS Discord chat](https://discord.gg/6VqgcpM) - Join now!
 
 
