@@ -2,9 +2,15 @@
 
 Hello, visitor!
 
-This repository contains presentations about NGS (Next Generation Shell)
+This repository is a landing page for talks about NGS.
 
-The list below is in reverse chronological order.
+Quick links:
+* [NGS Website](https://ngs-lang.org/)
+* [Main GitHub project](https://github.com/ngs-lang/ngs)
+* [NGS Discord chat](https://discord.gg/6VqgcpM) - Join now!
+
+
+List of talks with slides in reverse chronological order follows:
 
 ## Copenhagen Developers Festival 2024
 
